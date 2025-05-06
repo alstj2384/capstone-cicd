@@ -1,6 +1,0 @@
-[submodule "capstone-spring"]
-	path = capstone-spring
-	url = https://github.com/alstj2384/capstone-spring
-[submodule "capstone-ai"]
-	path = capstone-ai
-	url = https://github.com/alstj2384/capstone-ai
